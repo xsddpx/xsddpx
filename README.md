@@ -53,3 +53,13 @@ socks5代理工具.
 ## v2ray [https://github.com/2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 v2ray 代理工具，支持多种协议
+
+https://imageglass.org/release/imageglass-9-1-8-723-55
+https://jianqiezhushou.com/
+https://github.com/putyy/res-downloader
+https://zhouql.vip/bilibili/pc/
+https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases
+https://www.autohotkey.com/
+https://darbyjohnston.github.io/DJV/
+http://listen1.github.io/listen1/
+https://handbrake.fr/
